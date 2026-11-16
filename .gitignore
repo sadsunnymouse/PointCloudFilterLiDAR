@@ -1,0 +1,15 @@
+build/
+out/
+bin/
+*.exe
+*.out
+*.so
+
+
+.vscode/
+
+
+data/
+*.csv
+*.las
+*.laz
